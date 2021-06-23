@@ -1,2 +1,2 @@
-# upload-SHAPE-AI-
+# SHAPE AI Computer Vision Project 
 SHAPE AI project 
